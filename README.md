@@ -196,4 +196,4 @@ Using your existing and new skills, find the attacker's VM(s) before they capsiz
 
 **Do as I say, not as I do - every instructor ever**
 
-Write a `tool` <https://docs.openwebui.com/tutorial/tools/> for the language model, to allow it to run SQL on your behalf, and use that to attempt these challenges again by asking it to find these things.
+Write a `tool` <https://docs.openwebui.com/tutorials/plugin/tools/> for the language model, to allow it to run SQL on your behalf, and use that to attempt these challenges again by asking it to find these things.
