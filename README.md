@@ -9,7 +9,7 @@ This guide exists to accompany this workshop at Bsides Ljubljana.
 
 ## Non-requirements
 
-- SQL experience
+- SQL experience - You won't be writing the SQL queries, the language model will
 - LLM experience
 - Python experience
 - Computer science degrees
