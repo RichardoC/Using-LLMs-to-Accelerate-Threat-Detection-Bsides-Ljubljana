@@ -64,7 +64,7 @@ If you've already downloaded the model, it will say `Use` instead of `Download`
 
 #### Importing the models from SSD (jan.ai)
 
-- Paste the model folders from SSD (`gemma-2-2b-it` and `llama3.1-8b-instruct`) into `~/jan/models` on macos and `~/.config/Jan/data/models` on Linux
+- Paste the model folders from SSD (`gemma-2-2b-it` and `llama3.1-8b-instruct`) into `~/jan/models` on macos and `~/.config/Jan/models/` on Linux
 
 ### ollama
 
